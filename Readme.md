@@ -1,0 +1,1 @@
+# A project developed for backend practicing, a video sharing platform including decent amount of work 
